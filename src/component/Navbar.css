@@ -1,0 +1,15 @@
+nav{
+    display: flex;
+    align-items: center;
+    width: 100vw;
+    padding: 1rem 2rem;
+    margin: 0;
+    box-shadow: 1px 1px 5px 1px rgb(216, 152, 49);
+}
+ul{
+    display: flex;
+    gap: 1rem;
+    list-style: none;
+    align-self: safe;
+
+}
